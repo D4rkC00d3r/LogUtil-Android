@@ -9,7 +9,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        LogDebug().debugLog(LogDebug().tag, "This is my debug message")
+        // -- Example -- How to call LogDebug and pass it in "tag" and a string "
+        LogDebug().debugLog(LogDebug().tag, "This is my debug message.")
 
     }
 }
