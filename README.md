@@ -1,5 +1,5 @@
 # LogUtil-Android
-Android library for working with Log file in Android SDK written in Kotlin.
+Android library for working with Log file in Android SDK written in Kotlin. This library has an example APK that has been built with GitHub Actions.
 
 
 Add it in your root build.gradle at the end of repositories:
