@@ -44,4 +44,4 @@ I have started implementing unit tests within the librarys "test" folder.
 
 	LogDebugTest 
 	
-This can be run directly on on the JVM and does not require a physicial device or the emulator. This is why I have not implemented "androidTest" as it is not needed in this example.
+This can be run directly on the JVM and does not require a physicial device or the emulator. This is why I have not implemented "androidTest" as it is not needed in this example.
